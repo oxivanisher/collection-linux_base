@@ -10,3 +10,6 @@
 [submodule "roles/oxiscripts"]
 	path = roles/oxiscripts
 	url = https://github.com/oxivanisher/role-oxiscripts.git
+[submodule "roles/ssh_server"]
+	path = roles/ssh_server
+	url = https://github.com/oxivanisher/role-ssh_server.git

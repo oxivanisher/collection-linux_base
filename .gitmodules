@@ -4,3 +4,6 @@
 [submodule "roles/apt_unattended_upgrade"]
 	path = roles/apt_unattended_upgrade
 	url = https://github.com/oxivanisher/role-apt_unattended_upgrade.git
+[submodule "roles/apt_source"]
+	path = roles/apt_source
+	url = https://github.com/oxivanisher/role-apt_source.git

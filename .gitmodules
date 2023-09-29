@@ -49,3 +49,6 @@
 [submodule "roles/realtime_clock"]
 	path = roles/realtime_clock
 	url = https://github.com/oxivanisher/role-realtime_clock.git
+[submodule "roles/dnscache"]
+	path = roles/dnscache
+	url = https://github.com/oxivanisher/role-dnscache.git

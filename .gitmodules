@@ -58,3 +58,6 @@
 [submodule "roles/hosts_override"]
 	path = roles/hosts_override
 	url = https://github.com/oxivanisher/role-hosts_override.git
+[submodule "roles/nextcloud_davfs"]
+	path = roles/nextcloud_davfs
+	url = https://github.com/oxivanisher/role-nextcloud_davfs.git

@@ -37,3 +37,6 @@
 [submodule "roles/ssh_keys"]
 	path = roles/ssh_keys
 	url = https://github.com/oxivanisher/role-ssh_keys.git
+[submodule "roles/syslog"]
+	path = roles/syslog
+	url = https://github.com/oxivanisher/role-syslog.git

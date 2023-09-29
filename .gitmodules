@@ -40,3 +40,6 @@
 [submodule "roles/syslog"]
 	path = roles/syslog
 	url = https://github.com/oxivanisher/role-syslog.git
+[submodule "roles/ntp"]
+	path = roles/ntp
+	url = https://github.com/oxivanisher/role-ntp.git

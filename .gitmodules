@@ -34,3 +34,6 @@
 [submodule "roles/locales"]
 	path = roles/locales
 	url = https://github.com/oxivanisher/role-locales.git
+[submodule "roles/ssh_keys"]
+	path = roles/ssh_keys
+	url = https://github.com/oxivanisher/role-ssh_keys.git

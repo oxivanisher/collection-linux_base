@@ -16,3 +16,6 @@
 [submodule "roles/os_upgrade"]
 	path = roles/os_upgrade
 	url = https://github.com/oxivanisher/role-os_upgrade.git
+[submodule "roles/rebootcheck"]
+	path = roles/rebootcheck
+	url = https://github.com/oxivanisher/role-rebootcheck.git

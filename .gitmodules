@@ -52,3 +52,6 @@
 [submodule "roles/dnscache"]
 	path = roles/dnscache
 	url = https://github.com/oxivanisher/role-dnscache.git
+[submodule "roles/hosts_file"]
+	path = roles/hosts_file
+	url = https://github.com/oxivanisher/role-hosts_file.git

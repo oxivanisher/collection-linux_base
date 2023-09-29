@@ -15,7 +15,7 @@ jobs:
 
     - name: Build Collection
       run: |
-        ansible-galaxy collection build ./path/to/collection
+        ansible-galaxy collection build .
       working-directory: ${{ github.workspace }}
 
     - name: Publish Collection

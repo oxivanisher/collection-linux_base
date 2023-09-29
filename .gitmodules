@@ -28,3 +28,6 @@
 [submodule "roles/packages"]
 	path = roles/packages
 	url = https://github.com/oxivanisher/role-packages.git
+[submodule "roles/timezone"]
+	path = roles/timezone
+	url = https://github.com/oxivanisher/role-timezone.git

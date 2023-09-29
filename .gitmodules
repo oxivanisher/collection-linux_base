@@ -25,3 +25,6 @@
 [submodule "roles/smartd"]
 	path = roles/smartd
 	url = https://github.com/oxivanisher/role-smartd.git
+[submodule "roles/packages"]
+	path = roles/packages
+	url = https://github.com/oxivanisher/role-packages.git

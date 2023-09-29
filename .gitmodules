@@ -46,3 +46,6 @@
 [submodule "roles/logwatch"]
 	path = roles/logwatch
 	url = https://github.com/oxivanisher/role-logwatch.git
+[submodule "roles/realtime_clock"]
+	path = roles/realtime_clock
+	url = https://github.com/oxivanisher/role-realtime_clock.git

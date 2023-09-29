@@ -1,0 +1,3 @@
+[submodule "roles/prometheus_node_exporter"]
+	path = roles/prometheus_node_exporter
+	url = https://github.com/oxivanisher/role-prometheus_node_exporter.git

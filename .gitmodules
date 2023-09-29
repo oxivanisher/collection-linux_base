@@ -43,3 +43,6 @@
 [submodule "roles/ntp"]
 	path = roles/ntp
 	url = https://github.com/oxivanisher/role-ntp.git
+[submodule "roles/logwatch"]
+	path = roles/logwatch
+	url = https://github.com/oxivanisher/role-logwatch.git

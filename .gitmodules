@@ -61,3 +61,6 @@
 [submodule "roles/nextcloud_davfs"]
 	path = roles/nextcloud_davfs
 	url = https://github.com/oxivanisher/role-nextcloud_davfs.git
+[submodule "roles/keyboard_layout"]
+	path = roles/keyboard_layout
+	url = https://github.com/oxivanisher/role-keyboard_layout.git

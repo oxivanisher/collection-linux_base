@@ -13,3 +13,6 @@
 [submodule "roles/ssh_server"]
 	path = roles/ssh_server
 	url = https://github.com/oxivanisher/role-ssh_server.git
+[submodule "roles/os_upgrade"]
+	path = roles/os_upgrade
+	url = https://github.com/oxivanisher/role-os_upgrade.git

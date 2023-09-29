@@ -55,3 +55,6 @@
 [submodule "roles/hosts_file"]
 	path = roles/hosts_file
 	url = https://github.com/oxivanisher/role-hosts_file.git
+[submodule "roles/hosts_override"]
+	path = roles/hosts_override
+	url = https://github.com/oxivanisher/role-hosts_override.git

@@ -22,3 +22,6 @@
 [submodule "roles/nullmailer"]
 	path = roles/nullmailer
 	url = https://github.com/oxivanisher/role-nullmailer.git
+[submodule "roles/smartd"]
+	path = roles/smartd
+	url = https://github.com/oxivanisher/role-smartd.git

@@ -19,3 +19,6 @@
 [submodule "roles/rebootcheck"]
 	path = roles/rebootcheck
 	url = https://github.com/oxivanisher/role-rebootcheck.git
+[submodule "roles/nullmailer"]
+	path = roles/nullmailer
+	url = https://github.com/oxivanisher/role-nullmailer.git

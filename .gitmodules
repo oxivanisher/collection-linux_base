@@ -64,3 +64,6 @@
 [submodule "roles/keyboard_layout"]
 	path = roles/keyboard_layout
 	url = https://github.com/oxivanisher/role-keyboard_layout.git
+[submodule "roles/set_hostname"]
+	path = roles/set_hostname
+	url = https://github.com/oxivanisher/role-set_hostname

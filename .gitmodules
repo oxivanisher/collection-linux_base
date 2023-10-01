@@ -73,3 +73,6 @@
 [submodule "roles/system_user"]
 	path = roles/system_user
 	url = https://github.com/oxivanisher/role-system_user
+[submodule "roles/resize_lvol"]
+	path = roles/resize_lvol
+	url = https://github.com/oxivanisher/role-resize_lvol

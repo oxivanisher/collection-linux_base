@@ -67,3 +67,6 @@
 [submodule "roles/set_hostname"]
 	path = roles/set_hostname
 	url = https://github.com/oxivanisher/role-set_hostname
+[submodule "roles/vm_guest_addons"]
+	path = roles/vm_guest_addons
+	url = https://github.com/oxivanisher/role-vm_guest_addons

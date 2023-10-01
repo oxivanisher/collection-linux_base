@@ -20,8 +20,12 @@ Documentation for the collection.
 * https://github.com/oxivanisher/role-prometheus_node_exporter.git
 * https://github.com/oxivanisher/role-realtime_clock.git
 * https://github.com/oxivanisher/role-rebootcheck.git
+* https://github.com/oxivanisher/role-resize_lvol
+* https://github.com/oxivanisher/role-set_hostname
 * https://github.com/oxivanisher/role-smartd.git
 * https://github.com/oxivanisher/role-ssh_keys.git
 * https://github.com/oxivanisher/role-ssh_server.git
 * https://github.com/oxivanisher/role-syslog.git
+* https://github.com/oxivanisher/role-system_user
 * https://github.com/oxivanisher/role-timezone.git
+* https://github.com/oxivanisher/role-vm_guest_addons

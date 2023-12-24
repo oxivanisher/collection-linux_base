@@ -5,6 +5,7 @@ Documentation for the collection.
 ## Contains the following roles
 * https://github.com/oxivanisher/role-apt_source.git
 * https://github.com/oxivanisher/role-apt_unattended_upgrade.git
+* https://github.com/oxivanisher/role-chrony.git
 * https://github.com/oxivanisher/role-dnscache.git
 * https://github.com/oxivanisher/role-hosts_file.git
 * https://github.com/oxivanisher/role-hosts_override.git
@@ -12,7 +13,6 @@ Documentation for the collection.
 * https://github.com/oxivanisher/role-locales.git
 * https://github.com/oxivanisher/role-logwatch.git
 * https://github.com/oxivanisher/role-nextcloud_davfs.git
-* https://github.com/oxivanisher/role-ntp.git
 * https://github.com/oxivanisher/role-nullmailer.git
 * https://github.com/oxivanisher/role-os_upgrade.git
 * https://github.com/oxivanisher/role-oxiscripts.git
@@ -29,3 +29,6 @@ Documentation for the collection.
 * https://github.com/oxivanisher/role-system_user
 * https://github.com/oxivanisher/role-timezone.git
 * https://github.com/oxivanisher/role-vm_guest_addons
+
+### Roles to be phased out (please don't use anymore, will be removed sometimes)
+* https://github.com/oxivanisher/role-ntp.git

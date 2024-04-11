@@ -79,3 +79,6 @@
 [submodule "roles/chrony"]
 	path = roles/chrony
 	url = https://github.com/oxivanisher/role-chrony
+[submodule "roles/deploy_user"]
+	path = roles/deploy_user
+	url = https://github.com/oxivanisher/role-deploy_user.git

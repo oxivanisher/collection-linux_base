@@ -1,3 +1,6 @@
+## 2024-05-24
+* Support noble in apt_source role
+
 ## 2024-05-07
 * Rewrite ssh server role:
   * Add readme

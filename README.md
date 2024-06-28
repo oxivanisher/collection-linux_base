@@ -1,6 +1,6 @@
 # Ansible Collection - oxivanisher.linux_base
 
-Documentation for the collection.
+[![Auto Release and Publish to Ansible Galaxy](https://github.com/oxivanisher/collection-linux_base/actions/workflows/release-new-version.yml/badge.svg)](https://github.com/oxivanisher/collection-linux_base/actions/workflows/release-new-version.yml)
 
 ## Contains the following roles
 * https://github.com/oxivanisher/role-apt_source.git

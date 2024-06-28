@@ -1,3 +1,8 @@
+## 2024-06-28
+* Adding pipeline badge
+* Adding supported minimal version for linter
+* Improve readme
+
 ## 2024-05-24
 * Support noble in apt_source role
 

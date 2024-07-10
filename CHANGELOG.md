@@ -1,3 +1,6 @@
+## 2024-07-10
+* Support deploy_user_groupname in deploy_user role
+
 ## 2024-06-28
 * Adding pipeline badge
 * Adding supported minimal version for linter

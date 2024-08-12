@@ -79,3 +79,6 @@
 [submodule "roles/deploy_user"]
 	path = roles/deploy_user
 	url = https://github.com/oxivanisher/role-deploy_user.git
+[submodule "roles/oxiscripts"]
+	path = roles/oxiscripts
+	url = https://github.com/oxivanisher/role-oxiscripts.git

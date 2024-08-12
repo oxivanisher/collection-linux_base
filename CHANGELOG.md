@@ -1,3 +1,6 @@
+## 2024-08-12
+* Bump oxiscripts role to support backup cleanup days
+
 ## 2024-07-10
 * Support deploy_user_groupname in deploy_user role
 

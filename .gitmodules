@@ -7,9 +7,6 @@
 [submodule "roles/apt_source"]
 	path = roles/apt_source
 	url = https://github.com/oxivanisher/role-apt_source.git
-[submodule "roles/oxiscripts"]
-	path = roles/oxiscripts
-	url = https://github.com/oxivanisher/role-oxiscripts.git
 [submodule "roles/ssh_server"]
 	path = roles/ssh_server
 	url = https://github.com/oxivanisher/role-ssh_server.git

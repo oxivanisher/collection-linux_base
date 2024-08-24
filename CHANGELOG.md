@@ -1,3 +1,6 @@
+## 2024-08-24
+* Bump nextcloud_davfs for improved cron job
+
 ## 2024-08-12
 * Bump oxiscripts role to support backup cleanup days
 

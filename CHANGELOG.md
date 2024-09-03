@@ -1,3 +1,6 @@
+## 2024-09-03
+* Bump for role rebootcheck
+
 ## 2024-08-24
 * Bump nextcloud_davfs for improved cron job
 

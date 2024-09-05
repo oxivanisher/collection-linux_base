@@ -7,6 +7,7 @@
 * https://github.com/oxivanisher/role-apt_unattended_upgrade.git
 * https://github.com/oxivanisher/role-chrony.git
 * https://github.com/oxivanisher/role-dnscache.git
+* https://github.com/oxivanisher/role-grub_cmdline_options.git
 * https://github.com/oxivanisher/role-hosts_file.git
 * https://github.com/oxivanisher/role-hosts_override.git
 * https://github.com/oxivanisher/role-keyboard_layout.git

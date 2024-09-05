@@ -1,3 +1,6 @@
+## 2024-09-05
+* Add grub_cmdline_options role
+
 ## 2024-09-03
 * Bump for role rebootcheck
 

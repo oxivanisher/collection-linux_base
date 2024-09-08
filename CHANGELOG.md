@@ -1,3 +1,6 @@
+## 2024-09-08
+* Bump for rsyslog role
+
 ## 2024-09-05
 * Add grub_cmdline_options role
 

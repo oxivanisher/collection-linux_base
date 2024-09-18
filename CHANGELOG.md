@@ -1,3 +1,6 @@
+## 2024-09-18
+* Bump for packages role. Be aware, this is a braking change for variable name.
+
 ## 2024-09-08
 * Bump for rsyslog role
 

@@ -1,3 +1,6 @@
+## 2024-10-17
+* Bump for oxiscripts role
+
 ## 2024-09-29
 * Add kernel_module role
 

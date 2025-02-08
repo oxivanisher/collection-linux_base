@@ -84,4 +84,4 @@
 	url = https://github.com/oxivanisher/role-grub_cmdline_options.git
 [submodule "roles/kernel_modules"]
 	path = roles/kernel_modules
-	url = https://github.com/oxivanisher/kernel_modules.git
+	url = https://github.com/oxivanisher/role-kernel_modules.git

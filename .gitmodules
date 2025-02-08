@@ -37,9 +37,6 @@
 [submodule "roles/syslog"]
 	path = roles/syslog
 	url = https://github.com/oxivanisher/role-syslog.git
-[submodule "roles/ntp"]
-	path = roles/ntp
-	url = https://github.com/oxivanisher/role-ntp.git
 [submodule "roles/logwatch"]
 	path = roles/logwatch
 	url = https://github.com/oxivanisher/role-logwatch.git
@@ -87,4 +84,4 @@
 	url = https://github.com/oxivanisher/role-grub_cmdline_options.git
 [submodule "roles/kernel_modules"]
 	path = roles/kernel_modules
-	url = https://github.com/oxivanisher/kernel_modules_blacklist.git
+	url = https://github.com/oxivanisher/kernel_modules.git

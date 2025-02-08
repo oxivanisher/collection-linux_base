@@ -30,6 +30,3 @@
 * https://github.com/oxivanisher/role-system_user
 * https://github.com/oxivanisher/role-timezone.git
 * https://github.com/oxivanisher/role-vm_guest_addons
-
-### Roles to be phased out (please don't use anymore, will be removed sometimes)
-* https://github.com/oxivanisher/role-ntp.git

@@ -1,3 +1,6 @@
+## 2025-02-14
+* Bump for oxiscripts role. Please see the role for details, this will break stuff if you use rsync or documents backup jobs!
+
 ## 2025-02-08
 * Bump for all roles to remove unused tests directory to make linter happy
 * Fix several variable names where the linter was not happy

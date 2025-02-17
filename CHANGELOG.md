@@ -1,3 +1,6 @@
+## 2025-02-17
+* Bump for oxiscripts role bugfix
+
 ## 2025-02-14
 * Bump for oxiscripts role. Please see the role for details, this will break stuff if you use rsync or documents backup jobs!
 

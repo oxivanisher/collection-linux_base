@@ -1,3 +1,6 @@
+## 2025-03-17
+* Bump for oxiscripts role bugfix
+
 ## 2025-02-23
 * Bump for apt_source role bugfix
 

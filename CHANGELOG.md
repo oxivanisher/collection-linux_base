@@ -1,3 +1,6 @@
+## 2025-05-08
+* Bump for smartd bugfix
+
 ## 2025-03-17
 * Bump for oxiscripts role bugfix
 

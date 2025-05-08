@@ -1,6 +1,6 @@
 ## 2025-05-08
 * Bump for smartd bugfix
-* Bump for apt_source (adding linux mint xia)
+* Bump for apt_source (adding linux mint xia) and use HTTPS per default
 
 ## 2025-03-17
 * Bump for oxiscripts role bugfix

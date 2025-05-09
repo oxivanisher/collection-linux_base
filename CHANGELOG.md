@@ -1,7 +1,7 @@
 ## 2025-05-08
 * Bump for smartd bugfix
 * Bump for apt_source (adding linux mint xia) and use HTTPS per default
-* Bump for deploy_user now supporting max UID
+* Bump for deploy_user now supporting min and max UID
 
 ## 2025-03-17
 * Bump for oxiscripts role bugfix

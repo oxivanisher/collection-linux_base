@@ -1,3 +1,6 @@
+## 2025-05-14
+* Bump nextcloud_davfs to support and default to mount the Nextcloud folder also as user
+
 ## 2025-05-08
 * Bump for smartd bugfix
 * Bump for apt_source (adding linux mint xia) and use HTTPS per default

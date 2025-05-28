@@ -1,3 +1,6 @@
+## 2025-05-20
+* Bump for nextcloud_davfs bugfix
+
 ## 2025-05-14
 * Bump nextcloud_davfs to support and default to mount the Nextcloud folder also as user
 

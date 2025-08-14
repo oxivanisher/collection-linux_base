@@ -1,3 +1,6 @@
+## 2025-08-14
+* Bump for apt_source to add debian trixie support for x86
+
 ## 2025-05-29
 * Bump for nextcloud_davfs bugfix
 

@@ -1,3 +1,6 @@
+## 2025-08-15
+* Bump for apt_source to add linux mint zara (22.2) support
+
 ## 2025-08-14
 * Bump for apt_source to add debian trixie support for x86
 

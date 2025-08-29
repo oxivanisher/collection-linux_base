@@ -1,3 +1,6 @@
+## 2025-08-29
+* Bump for nextcloud_davfs role
+
 ## 2025-08-15
 * Bump for apt_source to add linux mint zara (22.2) support
 

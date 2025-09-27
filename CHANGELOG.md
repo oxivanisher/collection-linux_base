@@ -1,3 +1,6 @@
+## 2025-09-27
+* Bump for oxiscripts role install improvement
+
 ## 2025-09-08
 * Bump for nextcloud_davfs role
 

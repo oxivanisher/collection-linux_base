@@ -1,3 +1,6 @@
+## 2025-10-03
+* Support Trixie on Raspberry pis for apt_source
+
 ## 2025-09-27
 * Bump for oxiscripts role install improvement
 

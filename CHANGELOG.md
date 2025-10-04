@@ -1,3 +1,6 @@
+## 2025-10-04
+* Ensure switch variable is bool
+
 ## 2025-10-03
 * Support Trixie on Raspberry pis for apt_source
 

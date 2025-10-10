@@ -27,6 +27,7 @@
 * https://github.com/oxivanisher/role-ssh_keys.git
 * https://github.com/oxivanisher/role-ssh_server.git
 * https://github.com/oxivanisher/role-syslog.git
+* https://github.com/oxivanisher/role-systemd_am_silence
 * https://github.com/oxivanisher/role-system_user
 * https://github.com/oxivanisher/role-timezone.git
 * https://github.com/oxivanisher/role-vm_guest_addons

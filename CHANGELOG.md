@@ -1,4 +1,7 @@
-## 2025-10.05
+## 2025-10-10
+* Add new role to silence prometheus alert manager on systemd timers (systemd_am_silence)
+
+## 2025-10-05
 * Lookup user homes instead of guesstimating
 
 ## 2025-10-04

@@ -1,3 +1,6 @@
+## 2025-10-25
+* Bump for syslogrole to support check mode
+
 ## 2025-10-11
 * Bump for apt sources updates
 

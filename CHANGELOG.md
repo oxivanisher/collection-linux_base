@@ -1,3 +1,6 @@
+## 2025-11-01
+* Bump for oxiscripts to handle rsync jobs for document backup
+
 ## 2025-10-25
 * Bump for syslogrole to support check mode
 

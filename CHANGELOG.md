@@ -1,3 +1,6 @@
+## 2025-11-23
+* Ansible 2.5 porting in all roles
+
 ## 2025-11-01
 * Bump for oxiscripts to handle rsync jobs for document backup
 

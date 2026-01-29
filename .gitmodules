@@ -88,3 +88,6 @@
 [submodule "roles/systemd_am_silence"]
 	path = roles/systemd_am_silence
 	url = https://github.com/oxivanisher/role-systemd_am_silence.git
+[submodule "roles/check_running"]
+	path = roles/check_running
+	url = https://github.com/oxivanisher/role-check_running.git

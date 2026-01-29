@@ -1,3 +1,7 @@
+## 2026-01-30
+* Publish check_running role
+* Improve os_upgrade module for other distros
+
 ## 2025-11-23
 * Ansible 2.5 porting in all roles
 

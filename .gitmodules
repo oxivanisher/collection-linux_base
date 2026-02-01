@@ -91,3 +91,6 @@
 [submodule "roles/check_running"]
 	path = roles/check_running
 	url = https://github.com/oxivanisher/role-check_running.git
+[submodule "roles/nut_client"]
+	path = roles/nut_client
+	url = https://github.com/oxivanisher/role-nut_client.git

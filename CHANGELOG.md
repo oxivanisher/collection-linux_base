@@ -1,3 +1,6 @@
+## 2024-02-01
+* Add nut_client role
+
 ## 2026-01-30
 * Publish check_running role
 * Improve os_upgrade module for other distros

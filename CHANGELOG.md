@@ -1,4 +1,7 @@
-## 2024-02-01
+## 2026-02-05
+* Bump for small os_upgrade and check_running improvements
+
+## 2026-02-01
 * Add nut_client role
 
 ## 2026-01-30

@@ -5,6 +5,7 @@
 ## Contains the following roles
 * https://github.com/oxivanisher/role-apt_source.git
 * https://github.com/oxivanisher/role-apt_unattended_upgrade.git
+* https://github.com/oxivanisher/role-ca_certificates
 * https://github.com/oxivanisher/role-check_running
 * https://github.com/oxivanisher/role-chrony.git
 * https://github.com/oxivanisher/role-dnscache.git

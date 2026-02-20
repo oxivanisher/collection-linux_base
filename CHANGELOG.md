@@ -1,3 +1,6 @@
+## 2026-02-20
+* Add new ca_certificate role for adding ca certificates to the system
+
 ## 2026-02-05
 * Bump for small os_upgrade and check_running improvements
 

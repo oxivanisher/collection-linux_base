@@ -94,3 +94,6 @@
 [submodule "roles/nut_client"]
 	path = roles/nut_client
 	url = https://github.com/oxivanisher/role-nut_client.git
+[submodule "roles/ca_certificates"]
+	path = roles/ca_certificates
+	url = https://github.com/oxivanisher/role-ca_certificates.git

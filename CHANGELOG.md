@@ -1,3 +1,6 @@
+## 2026-02-24
+* Bump for os_upgrade for ansible 2.4 deprication
+
 ## 2026-02-20
 * Add new ca_certificate role for adding ca certificates to the system
 

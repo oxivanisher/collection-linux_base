@@ -1,3 +1,6 @@
+## 2026-03-27
+* Bump for optimized loop output
+
 ## 2026-02-24
 * Bump for os_upgrade for ansible 2.4 deprication
 

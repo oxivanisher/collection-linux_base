@@ -1,3 +1,6 @@
+## 2026-04-01 (2)
+* Remove redundant become_user: root in all roles
+
 ## 2026-04-01
 * deploy_user: add configurable `deploy_user_sudo_rules` variable
 * ssh_server: fix sshd_config regexp to prevent partial option key matches

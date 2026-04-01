@@ -1,3 +1,12 @@
+## 2026-04-01
+* deploy_user: add configurable `deploy_user_sudo_rules` variable
+* ssh_server: fix sshd_config regexp to prevent partial option key matches
+* nextcloud_davfs: add no_log to secrets task, fix hardcoded cloud URL
+* system_user: add no_log and loop label to user creation task
+* oxiscripts: add no_log to rsync password tasks, fix changed_when on comment task
+* chrony: use systemd_service module instead of generic service module
+* prometheus_node_exporter: use systemd_service module instead of generic service module
+
 ## 2026-03-27
 * Bump for optimized loop output
 

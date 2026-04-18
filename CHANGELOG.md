@@ -1,3 +1,6 @@
+## 2026-04-18
+* Bump for oxiscripts (fix symlinks for correct run order)
+
 ## 2026-04-01 (2)
 * Remove redundant become_user: root in all roles
 

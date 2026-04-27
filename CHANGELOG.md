@@ -1,3 +1,6 @@
+## 2026-04-27
+* Bump for deploy_user for sudoers file newline (sudo-rs compatibility)
+
 ## 2026-04-18
 * Bump for oxiscripts (fix symlinks for correct run order)
 

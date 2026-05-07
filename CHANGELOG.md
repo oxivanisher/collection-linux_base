@@ -1,3 +1,6 @@
+## 2026-05-07
+* Bump ca_certificates to reduce changes
+
 ## 2026-04-27
 * Bump for deploy_user for sudoers file newline (sudo-rs compatibility)
 * Bump for system_user for support system option and omit fields

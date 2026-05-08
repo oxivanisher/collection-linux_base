@@ -1,5 +1,6 @@
 ## 2026-05-08
 * Bump for nextcloud_davfs implement nextrsync feature
+* Bump for github.com workflow action version upgrade
 
 ## 2026-05-07
 * Bump ca_certificates to reduce changes

@@ -1,3 +1,6 @@
+## 2026-05-08
+* Bump for nextcloud_davfs implement nextrsync feature
+
 ## 2026-05-07
 * Bump ca_certificates to reduce changes
 

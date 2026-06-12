@@ -1,3 +1,6 @@
+## 2026-06-12
+* Bump for nextcloud_davfs for user home lookup instead of hardcoded /home
+
 ## 2026-05-08
 * Bump for nextcloud_davfs implement nextrsync feature
 * Bump for github.com workflow action version upgrade

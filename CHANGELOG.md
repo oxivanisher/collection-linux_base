@@ -1,3 +1,6 @@
+## 2026-07-22
+* Bump for nextcloud_davfs for nextrsync logging
+
 ## 2026-06-12
 * Bump for nextcloud_davfs for user home lookup instead of hardcoded /home
 

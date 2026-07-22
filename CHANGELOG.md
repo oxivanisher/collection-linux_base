@@ -1,4 +1,5 @@
 ## 2026-07-22
+* Bump for linting improvements
 * Bump for nextcloud_davfs for nextrsync logging
 
 ## 2026-06-12

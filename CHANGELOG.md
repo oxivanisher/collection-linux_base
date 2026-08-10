@@ -1,3 +1,6 @@
+## 2026-08-10
+* Bump for os_upgrade to support os_upgrade_reboot_timeout
+
 ## 2026-07-22
 * Bump for linting improvements
 * Bump for nextcloud_davfs for nextrsync logging
